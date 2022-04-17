@@ -4,3 +4,6 @@ yolo
 datasets
 yolov5/
 yolov5s.pt
+prediction images/
+project.avi
+project2.avi
